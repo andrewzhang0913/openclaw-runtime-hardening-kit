@@ -1,0 +1,8 @@
+<key>EnvironmentVariables</key>
+<dict>
+  <key>OPENCLAW_SERVICE_VERSION</key>
+  <string>2026.4.2</string>
+  <key>OPENCLAW_HOOKS_TOKEN</key>
+  <string>${OPENCLAW_HOOKS_TOKEN}</string>
+</dict>
+
