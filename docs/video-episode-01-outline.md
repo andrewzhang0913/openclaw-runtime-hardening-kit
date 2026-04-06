@@ -1,5 +1,9 @@
 # Video Episode 01 Outline
 
+Related file:
+
+- `video-episode-01-script-zh.md`
+
 ## Working title
 
 From Private Lab to Public Tooling: Hardening a Local OpenClaw Runtime
